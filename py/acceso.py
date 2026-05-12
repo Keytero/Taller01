@@ -2,7 +2,7 @@ usuario_correcto1 = "David"
 contraseña_correcta1 = "12345"
 
 usuario_correcto2 = "Keiner"
-contraseña_correcta2 = "54321"
+contraseña_correcta2 = "654321"
 
 usuario = input("Ingresa el usuario: ")
 contraseña = input("Ingrese la contraseña: ")

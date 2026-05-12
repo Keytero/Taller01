@@ -4,7 +4,7 @@ let usuario_correcto1 = "Keiner"
 let contraseña_correcta1 = "54321"
 
 let usuario = "Keiner"
-let contraseña = "54328"
+let contraseña = "54321"
 
 if (usuario == usuario_correcto && contraseña == contraseña_correcta) {
     console.log("Bienvenido")
