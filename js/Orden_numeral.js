@@ -1,5 +1,5 @@
 let num1 = 7
-let num2 = 14
+let num2 = 17
 let num3 = 4
 
 let numeros = [num1, num2, num3];
