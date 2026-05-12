@@ -1,7 +1,7 @@
 usuario_correcto = "David"
 contraseña_correcta = "12345"
 
-usuario = input ("ingresew el usuario: ")
+usuario = input ("ingrese el usuario: ")
 contraseña = input ("ingrese la contraseña: ")
 
 if usuario == usuario_correcto and contraseña == contraseña_correcta:
